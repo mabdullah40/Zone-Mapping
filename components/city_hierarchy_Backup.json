@@ -2519,23 +2519,30 @@
             "Ikhlasgarh"
         ]
     },
-    "Wah": {
-        "Wah": [
+    "Wah Cantt": {
 
-        ]
-    },
-    "Wah Cantt": {        
+        "Islamabad - B - 17": [
+            "Sector B-17",
+            "b[ -]?17",
+            "b[ -]?17/\\d+",
+            "\\[b\\][ -]?17/\\d+"
+        ],
+        "Islamabad - D - 17": [
+            "Sarai Kharbuza",
+            "Sector D-17",
+            "d[ -]?17",
+            "d[ -]?17/\\d+",
+            "\\[d\\][ -]?17/\\d+"
+        ],
+        
         "Wah Cantt": [
             "Bani Mohalla",
-            "lalarukh",
-            "wahcantt",
-            "wahcant",
+            "Phase 3",
             "Sector 21 - E",
             "Sector 22 - G",
             "Kohistan Enclave",
             "Iqbal Town",
-            "Iqbal Town 1",
-            "Iqbal Town One",
+            "1 F",
             "Minar Road",
             "Mohabtabad",
             "Nawababad",
@@ -2544,20 +2551,21 @@
             "Ghazi Pur Colony",
             "New City Wah Cantt",
             "Gulshan-e-Raza",
+            "Benazir Colony",
             "Shah Wali Colony",
-            "26 Area",
-            "27 Area",
-            "28 Area",
-            "Gadwal",
-            "Gadwall",
+            "25 Area",
             "Sector 23 G",
             "Officers Colony",
+            "Dhoke Barda",
             "Gulshan-e-Anwar",
             "Gulistan Colony",
             "Kohsar Colony",
-            "Kohsar Sector 21 F",
+            "Sector 21 F",
             "Aslam Market",
+            "Sector 20",
             "Ghouri Town",
+            "Phase 1 - Extension",
+            "Phase 4",
             "Malikabad",
             "Sadat Colony",
             "Jinnah Colony",
@@ -2578,165 +2586,10 @@
             "Basti Market",
             "Iqbal Road",
             "Barrier No 3",
-            "Barrier No 2",
-            "Barrier No 1",
-            "Taxila Barrier",
-            "Post Office Road",
-            "25 Area",
-            "Asifabad",
-            "Benazir Colony",
-            "Bhabra",
-            "Cashmer Town",
-            "Dhoke Barda",
-            "Nawababad",
-            "New City 2",
-            "Sadat Colony",
-            "Shah Wali Colony",
-            "Tameer-e-Hayat Colony",
-            "Dhok Kokara",
-            "Gattia Road"
-        ],        
-        "B-17": [
-            "\\b[bB][ -]?17\\b",
-            "\\b[bB][ -]?17/\\d+\\b",
-            "\\b\\[b\\][ -]?17/\\d+\\b",
-            " Sector B-17",
-            "Sector B- 17",
-            "Sector B - 17",
-            "Sector B -17",
-            "b[ -]?17",
-            "b[ -]?17/\\d+",
-            "\\[b\\][ -]?17/\\d+"
+            "Post Office Road"
         ]
     },
     "Islamabad": {
-        "Wah Cantt": [
-            "Bani Mohalla",
-            "lalarukh",
-            "wahcantt",
-            "wahcant",
-            "Sector 21 - E",
-            "Sector 22 - G",
-            "Kohistan Enclave",
-            "Iqbal Town",
-            "Iqbal Town 1",
-            "Iqbal Town One",
-            "Minar Road",
-            "Mohabtabad",
-            "Nawababad",
-            "Wah Model Town",
-            "Jamilabad",
-            "Ghazi Pur Colony",
-            "New City Wah Cantt",
-            "Gulshan-e-Raza",
-            "Shah Wali Colony",
-            "26 Area",
-            "27 Area",
-            "28 Area",
-            "Gadwal",
-            "Gadwall",
-            "Sector 23 G",
-            "Officers Colony",
-            "Gulshan-e-Anwar",
-            "Gulistan Colony",
-            "Kohsar Colony",
-            "Kohsar Sector 21 F",
-            "Aslam Market",
-            "Ghouri Town",
-            "Malikabad",
-            "Sadat Colony",
-            "Jinnah Colony",
-            "Qabristan Road",
-            "Chairman Colony",
-            "Sector 22 F",
-            "Asifabad",
-            "POF Officers Colony",
-            "Hassan Colony",
-            "Lohsar Sharfoo",
-            "Sarai Khola",
-            "Lalazar Colony",
-            "New Gulistan Colony",
-            "Pind Gondal",
-            "Gadwal Road",
-            "Liaq Ali Chowk",
-            "Basti Market",
-            "Iqbal Road",
-            "Barrier No 3",
-            "Barrier No 2",
-            "Barrier No 1",
-            "Taxila Barrier",
-            "Post Office Road",
-            "25 Area",
-            "Asifabad",
-            "Benazir Colony",
-            "Bhabra",
-            "Cashmer Town",
-            "Dhoke Barda",
-            "Nawababad",
-            "New City 2",
-            "Sadat Colony",
-            "Shah Wali Colony",
-            "Tameer-e-Hayat Colony",
-            "Dhok Kokara",
-            "Gattia Road"
-        ],        
-
-        "Islamabad - Airport New Societies":[
-            "Airport Enclave",
-            "Dhok Dhumman",
-            "Eighteen Housing Society",
-            "Eighteen society",
-            "Faisal Town",
-            "Fazaia Housing Scheme",
-            "Islamabad International Airport",
-            "Mumtaz City",
-            "PECHS",
-            "Shalimar Town",
-            "Thalian",
-            "Top City"
-        ],
-        "Islamabad - Sihala": [
-        "Aari Syedan",
-        "Chak Kamidar",
-        "CUST University",
-        "Gagri",
-        "Her-do-Gher",
-        "Jabi Gakhran",
-        "Kangota",
-        "Kangota Gujran",
-        "Ladhiot",
-        "Police Training College",
-        "Sihala"
-    ],
-        "Islamabad - Chatta Bakhtawar":[
-            "Green Avenue - Phase 1",
-            "Green Avenue",
-            "Park View",
-            "Kurri Road",
-            "Green Avenue - Phase 2",
-            "Hostel City",
-            "New Chatta Bakhtawar",
-            "New Chattha Bakhtawar",
-            "Mohra Noor",
-            "Junaid Mughal Town",
-            "Park Enclave",
-            "Chatta Road",
-            "chatta bakhtawar"
-        ],
-        "Kiyani Town Phase 1":[
-            "Kiyani Town Phase 1",
-            "Kiyani Town Phase 2",
-            "Kiyani Town"
-        ],
-
-        "Park View City":[
-            "Park View City",
-            "PVC"
-        ],
-        "Zaraj Housing Society":[
-            "Zaraj Housing Society",
-            "iqbal Avenue"
-        ],
         "PWD": [
             "PWD",
             "PWD Colony",
@@ -2751,55 +2604,15 @@
             "\\b[bB][ -]?17\\b",
             "\\b[bB][ -]?17/\\d+\\b",
             "\\b\\[b\\][ -]?17/\\d+\\b",
-            " Sector B-17",
-            "Sector B- 17",
-            "Sector B - 17",
-            "Sector B -17",
+            "Sector B-17",
             "b[ -]?17",
             "b[ -]?17/\\d+",
             "\\[b\\][ -]?17/\\d+"
-        ],
-        "D-17": [
-            "Sarai Kharbuza",
-            "Sector D-17",
-            "D17",
-            "D-17",
-            "d[ -]?17",
-            "d[ -]?17/\\d+",
-            "\\[d\\][ -]?17/\\d+"
-        ],
-        "D-18": [
-            "Sector D-18",
-            "d[ -]?18",
-            "d[ -]?18/\\d+",
-            "\\[d\\][ -]?18/\\d+",
-            "D-18",
-            "D18",
-            "Sangjani",
-            "AWT Housing Society",
-            "AWT Society"
-            
-        ],
-        "D-23": [
-            "Sector D-23",
-            "d[ -]?23",
-            "d[ -]?23/\\d+",
-            "\\[d\\][ -]?23/\\d+",
-            "D-23",
-            "D23"
-            
         ],
         "D-12": [
             "\\b[dD][ -]?12\\b",
             "\\b[dD][ -]?12/\\d+\\b",
             "\\b\\[d\\][ -]?12/\\d+\\b"
-        ],
-        "D-13": [
-            "\\b[dD][ -]?13\\b",
-            "\\b[dD][ -]?13/\\d+\\b",
-            "\\b\\[d\\][ -]?13/\\d+\\b",
-            "D-13",
-            "MAKHDOM SOCIETY"
         ],
         "B-12": [
             "\\b[bB][ -]?12\\b",
@@ -2814,8 +2627,7 @@
         "G-6": [
             "\\b[gG][ -]?6\\b",
             "\\b[gG][ -]?6/\\d+\\b",
-            "\\b\\[g\\][ -]?6/\\d+\\b",
-            "Blue Area"
+            "\\b\\[g\\][ -]?6/\\d+\\b"
         ],
         "G-7": [
             "\\b[gG][ -]?7\\b",
@@ -2836,8 +2648,7 @@
         "G-10": [
             "\\b[gG][ -]?10\\b",
             "\\b[gG][ -]?10/\\d+\\b",
-            "\\b\\[g\\][ -]?10/\\d+\\b",
-            "g 6"
+            "\\b\\[g\\][ -]?10/\\d+\\b"
         ],
         "G-11": [
             "\\b[gG][ -]?11\\b",
@@ -2852,9 +2663,7 @@
         "G-13": [
             "\\b[gG][ -]?13\\b",
             "\\b[gG][ -]?13/\\d+\\b",
-            "\\b\\[g\\][ -]?13/\\d+\\b",
-            "topcity",
-            "top city"
+            "\\b\\[g\\][ -]?13/\\d+\\b"
         ],
         "G-14": [
             "\\b[gG][ -]?14\\b",
@@ -2924,46 +2733,14 @@
         "H-11": [
             "\\b[hH][ -]?11\\b",
             "\\b[hH][ -]?11/\\d+\\b",
-            "\\b\\[h\\][ -]?11/\\d+\\b",
-            "baharia universiry",
-            "Bahria University",
-            "Bahria Uni",
-            "Behria University",
-            "Behria Uni"
+            "\\b\\[h\\][ -]?11/\\d+\\b"
         ],
         "H-12": [
             "\\b[hH][ -]?12\\b",
             "\\b[hH][ -]?12/\\d+\\b",
-            "\\b\\[h\\][ -]?12/\\d+\\b",
-            "Quaideazam University",
-            "Quaid e Azam University",
-            "Quaid-e-Azam University",
-            "Qaid E Azam University",
-            "Qaid-E-Azam University"
+            "\\b\\[h\\][ -]?12/\\d+\\b"
         ],
         "H-13": [
-            "Ali Bakhish Town",
-            "Gulzaar E Madina Town",
-            "Shams Colony",
-            "Quaid E Azam Hospital",
-            "Khayam Town",
-            "Hashmi Town",
-            "Abu Bakar Block",
-            "Ali Block",
-            "Paris City - Block H",
-            "Usman Block",
-            "Suleman Town",
-            "Paris City - Block E",
-            "Hamza Block",
-            "Paris City - Block F",
-            "Umer Block",
-            "Muhammadi Block",
-            "Abdullah Garden",
-            "Khayaban E Faiz",
-            "Capital Homes - Colony",
-            "h[ -]?13",
-            "h[ -]?13/\\d+",
-            "\\[h\\][ -]?13/\\d+",
             "\\b[hH][ -]?13\\b",
             "\\b[hH][ -]?13/\\d+\\b",
             "\\b\\[h\\][ -]?13/\\d+\\b"
@@ -3051,8 +2828,7 @@
         "I-14": [
             "\\b[iI][ -]?14\\b",
             "\\b[iI][ -]?14/\\d+\\b",
-            "\\b\\[i\\][ -]?14/\\d+\\b",
-            "I-14"
+            "\\b\\[i\\][ -]?14/\\d+\\b"
         ],
         "I-15": [
             "\\b[iI][ -]?15\\b",
@@ -3102,55 +2878,22 @@
         "E-8": [
             "\\b[eE][ -]?8\\b",
             "\\b[eE][ -]?8/\\d+\\b",
-            "\\b\\[e\\][ -]?8/\\d+\\b",
-            "PNWA Gift Shop",
-            "PNWA Gift Shops",
-            "PNWA",
-            "PNWA Gift",
-            "e8",
-            "Naval Complex Islamabad",
-            "Neval Complex Islamabad",
-            "NCI"
+            "\\b\\[e\\][ -]?8/\\d+\\b"
         ],
-        "Johar Town":[
-            "Johar Town",
-            "Johar Town park"
-        ],
-        
         "E-9": [
             "\\b[eE][ -]?9\\b",
             "\\b[eE][ -]?9/\\d+\\b",
-            "\\b\\[e\\][ -]?9/\\d+\\b",
-            "NDU",
-            "N D U",
-            "N-D-U",
-            "National Defence University",
-            "Air university",
-            "Air uni",
-            "PAF",
-            "e-9",
-            "e9",
-            "E9"
-
+            "\\b\\[e\\][ -]?9/\\d+\\b"
         ],
         "E-10": [
             "\\b[eE][ -]?10\\b",
             "\\b[eE][ -]?10/\\d+\\b",
-            "\\b\\[e\\][ -]?10/\\d+\\b",
-            "Defence Complex Islamabad",
-            "DCI",
-            "Imran Khan Naizi Defence Complex",
-            "Imran Khan Defence Complex",
-            "Naizi Defence Complex",
-            "D-C-I",
-            "e10",
-            "e-10"
+            "\\b\\[e\\][ -]?10/\\d+\\b"
         ],
         "E-11": [
             "\\b[eE][ -]?11\\b",
             "\\b[eE][ -]?11/\\d+\\b",
-            "\\b\\[e\\][ -]?11/\\d+\\b",
-            "E-11"
+            "\\b\\[e\\][ -]?11/\\d+\\b"
         ],
         "E-12": [
             "\\b[eE][ -]?12\\b",
@@ -3160,9 +2903,7 @@
         "E-13": [
             "\\b[eE][ -]?13\\b",
             "\\b[eE][ -]?13/\\d+\\b",
-            "\\b\\[e\\][ -]?13/\\d+\\b",
-            "e/13",
-            "Golra"
+            "\\b\\[e\\][ -]?13/\\d+\\b"
         ],
         "E-14": [
             "\\b[eE][ -]?14\\b",
@@ -3217,29 +2958,17 @@
         "F-8": [
             "\\b[fF][ -]?8\\b",
             "\\b[fF][ -]?8/\\d+\\b",
-            "\\b\\[f\\][ -]?8/\\d+\\b", 
-            "Centaurus Mall",
-            "Centaurus",
-            "Centorus",
-            "Centores",
-            "F-8",
-            "F8"
+            "\\b\\[f\\][ -]?8/\\d+\\b"
         ],
         "F-9": [
             "\\b[fF][ -]?9\\b",
             "\\b[fF][ -]?9/\\d+\\b",
-            "\\b\\[f\\][ -]?9/\\d+\\b",
-            "f-9 park",
-            "f 9 park",
-            "f9 park"
+            "\\b\\[f\\][ -]?9/\\d+\\b"
         ],
         "F-10": [
             "\\b[fF][ -]?10\\b",
             "\\b[fF][ -]?10/\\d+\\b",
-            "\\b\\[f\\][ -]?10/\\d+\\b",
-            "F10",
-            "F 10",
-            "F-10"
+            "\\b\\[f\\][ -]?10/\\d+\\b"
         ],
         "F-11": [
             "\\b[fF][ -]?11\\b",
@@ -3291,124 +3020,47 @@
             "\\b[fF][ -]?20/\\d+\\b",
             "\\b\\[f\\][ -]?20/\\d+\\b"
         ],
-        "khanna Pul":["lethrar Road"],
-        "Pakistan Town Phase 1": [
-            "Pakistan Town Phase 1",
-            "Pakistan Town 1",
-            "PK Town Phase 1",
-            "PK Town Phase 1",
-            "PK Town 1"
+        "Islamabad - Bahria Enclave": [
+            "Bahria Enclave"
         ],
-        "Pakistan Town Phase 2": [
-            "Pakistan Town Phase 2",
-            "Pakistan Town 2",
-            "PK Town Phase 2",
-            "PK Town 2"
-        ],
-        "Islamabad - Bahria Enclave Phase 1": [
-            "Bahria Enclave Phase 1",
-            "Bahria Phase 1",
-            "Bahria 1"
-        ],
-        "Islamabad - Bahria Enclave Phase 2": [
-            "Bahria Enclave Phase 2",
-            "Bahria Phase 2",
-            "Bahria 2"
-        ],
-        "Islamabad - Bahria Town Phase 1": [
+        "Islamabad - Bahria Town": [
+            "Bahria Town",
             "Bahria Town Phase 1",
-            "Bahria Phase 1",
-            "Bahria 1"
-        ],
-        "Islamabad - Bahria Town Phase 2": [
             "Bahria Town Phase 2",
-            "Bahria Phase 2",
-            "Bahria 2",
-            "Bahria Town Safari banquets",
-            "Safari banquets",
-            "Safari banquet"
-        ],
-        "Islamabad - Bahria Town Phase 3": [
             "Bahria Town Phase 3",
-            "Bahria Phase 3",
-            "Bahria 3"
-        ],
-        "Islamabad - Bahria Town Phase 4": [
             "Bahria Town Phase 4",
-            "Bahria Phase 4",
-            "Bahria 4"
-        ],
-        "Islamabad - Bahria Town Phase 5": [
             "Bahria Town Phase 5",
-            "Bahria Phase 5",
-            "Bahria 5"
-        ],
-        "Islamabad - Bahria Town Phase 6": [
             "Bahria Town Phase 6",
-            "Bahria Phase 6",
-            "Bahria 6"
+            "Bahria Town Phase 7"
         ],
-        "Islamabad - Bahria Town Phase 7": [
-            "Bahria Town Phase 7",
-            "Bahria Phase 7",
-            "Bahria 7"
+        "Islamabad - DHA": [
+            "DHA",
+            "Defence Housing Society"
         ],
+        "Islamabad - H -13": [
+            "Ali Bakhish Town",
+            "Gulzaar E Madina Town",
+            "Shams Colony",
+            "Quaid E Azam Hospital",
+            "Khayam Town",
+            "Hashmi Town",
+            "Abu Bakar Block",
+            "Ali Block",
+            "Paris City - Block H",
+            "Usman Block",
+            "Suleman Town",
+            "Paris City - Block E",
+            "Hamza Block",
+            "Paris City - Block F",
+            "Umer Block",
+            "Muhammadi Block",
+            "Abdullah Garden",
+            "Khayaban E Faiz",
+            "Capital Homes - Colony",
+            "h[ -]?13",
+            "h[ -]?13/\\d+",
+            "\\[h\\][ -]?13/\\d+"
 
-        "Islamabad - DHA Phase 1":[
-            "DHA Phase 1",
-            "Defence Housing Society 1",
-            "Defence Housing Authority 1",
-            "Defence Housing Society Phase 1",
-            "Defence Housing Authority Phase 1",
-            "DHA Phase 1 Extension",
-            "DHA 1"
-        ],
-        "Islamabad - DHA Phase 2":[
-
-            "DHA Phase 2",
-            "Defence Housing Society 2",
-            "Defence Housing Authority 2",
-            "Defence Housing Society Phase 2",
-            "Defence Housing Authority Phase 2",
-            "DHA Phase 2 Extension",
-            "DHA 2"
-        ],
-        "Islamabad - DHA Phase 3":[
-            "DHA Phase 3",
-            "Defence Housing Society 3",
-            "Defence Housing Authority 3",
-            "Defence Housing Society Phase 3",
-            "Defence Housing Authority Phase 3",
-            "DHA Phase 3 Extension",
-            "DHA 3"
-        ],
-
-        "Islamabad - DHA Phase 4":[
-            "DHA Phase 4",
-            "Defence Housing Society 4",
-            "Defence Housing Authority 4",
-            "Defence Housing Society Phase 4",
-            "Defence Housing Authority Phase 4",
-            "DHA Phase 4 Extension",
-            "DHA 4"
-        ],
-        "Islamabad - DHA Phase 5":[
-            "DHA Phase 5",
-            "Defence Housing Society 5",
-            "Defence Housing Authority 5",
-            "Defence Housing Society Phase 5",
-            "Defence Housing Authority Phase 5",
-            "DHA Phase 5 Extension",
-            "DHA 5"
-        ],
-        "Islamabad - DHA Phase 6":[
-            "DHA Phase 6",
-            "Defence Housing Society 6",
-            "Defence Housing Authority 6",
-            "Defence Housing Society Phase 6",
-            "Defence Housing Authority Phase 6",
-            "DHA Phase 6 Extension",
-            "DHA 6"
         ],
         "Islamabad - Jhangi Syedian": [
             "Chongi 26",
@@ -3437,11 +3089,6 @@
             "Hamdani Town"
         ],
         "Islamabad - Bhara Kahu": [
-            "bharakahu",
-            "bharakhu",
-            "barakahu",
-            "bhara kahu",
-            "barakhu",
             "Kiani Road",
             "Madina Town",
             "PTV Colony",
@@ -3471,8 +3118,7 @@
         "Islamabad - Rawal Town": [
             "NARC Colony",
             "Orchard Scheme",
-            "Margalla Town",
-            "Margall Town"
+            "Margalla Town"
         ],
         "Islamabad - Banni Gaala": [
             "Hill View Road",
@@ -3492,9 +3138,6 @@
             "Lake View Lanes Colony",
             "Korang Road",
             "North Banni Galla",
-            "Bani Galla",
-            "Bani Gala",
-            "Banni Gala",
             "Lakhwal",
             "Khyber City Town"
         ],
@@ -3525,47 +3168,25 @@
             "Mehrban Town",
             "Ghazi Shah Imam Road"
         ],
-        "Gulberg Green":[
-            "Gulberg Colony",
-            "Gulberg Green",
-            "Gulberg Greens",
-            "Gulberg Gren",
-            "Gulburg Green"
-        ],
         "Islamabad - Ghauri Town": [
-            "Ghauri Town",
             "Ghauri Town - Phase 4",
             "Ghauri Town - Phase 3",
-            "Ghauri Town Phase 3",
-            "Ghauri Town Phase 4",
-            "Ghauri Town Phase 5",
-            "Ghauri Town Phase 6",
-            "Ghauri Town Phase 7",
-            "Ghauri Town 7",
-            "Ghauri Town 6",
-            "Ghauri Town 5",
-            "Ghauri Town 2",
-            "Ghauri Phase 3",
-            "Ghauri Phase 4",
             "Marwa Town",
             "Sanam Chowk",
             "Shareef Abad",
             "Ghouri Garden",
             "Kalma Chowk",
+            "Ghauri Town - Phase 7",
             "Dhoke Gangal",
             "Madina Town",
-            "Koral Chowk",
             "Ghauri Town - Phase 2",
+            "Koral Chowk",
             "Ghauri Town - Phase 1",
-            "Ghauri Town - Phase 7",
             "Ghauri Town - Phase 5"
         ],
         "Islamabad - Chak Shahzad": [
             "Chak Shehzad Farms",
             "Gulshan - E - Alhuda",
-            "Gulshan E Alhuda",
-            "Gulshan-E-Alhuda",
-            "GulshanEAlhuda",
             "Shahzad Town",
             "COMSATS University",
             "Jinnah Complex",
@@ -3592,7 +3213,9 @@
             "New Colony",
             "Jahanian",
             "Jalalabad",
-            "Chak 112/10 R",
+            "Chak 112/10 R"
+        ],
+        "Jhanian": [
             "Chak 148/10 R",
             "Chak 113/10 R",
             "Housing Colony",
@@ -3651,7 +3274,6 @@
             "Shorkot City",
             "Transformer Chowk",
             "Jhamra Chak 161",
-            "Chak 161",
             "Shah Block",
             "Pathan Colony",
             "Lalazar Phase 2",
@@ -3749,7 +3371,6 @@
             "Talab Committee",
             "Tanga Adda",
             "Thana More - Kot Essa Shah",
-            "Kot Essa Shah",
             "Main Bazaar",
             "Chenab College",
             "Ahmed Pur",
@@ -3772,9 +3393,6 @@
             "Satellite Town V Block",
             "Satellite Town Z Block",
             "Chak # 475 - Sayydwala",
-            "Sayydwala",
-            "Chak # 475",
-            "Chak 475",
             "Faisalabad Phatak",
             "Basti Ghazi Shah",
             "Basti Jalalabad",
@@ -4636,17 +4254,17 @@
         ],
         "Karachi - DHA": [
             "Gizri",
-            "DHA Phase 2 Ext",
-            "DHA Phase 7 Ext",
-            "DHA Phase 3",
-            "DHA Phase 2",
-            "DHA Phase 9",
-            "DHA Phase 8",
-            "DHA Phase 1",
-            "DHA Phase 5",
-            "DHA Phase 6",
-            "DHA Phase 4",
-            "DHA Phase 7"
+            "Phase 2 Ext",
+            "Phase 7 Ext",
+            "Phase 3",
+            "Phase 2",
+            "Phase 9",
+            "Phase 8",
+            "Phase 1",
+            "Phase 5",
+            "Phase 6",
+            "Phase 4",
+            "Phase 7"
         ],
         "Karachi - F.B Area": [
             "Ayesha Manzil",
@@ -6466,6 +6084,15 @@
             "State Life Society",
             "Cantt View",
             "Ali Park Bedian Road",
+            "Phase 2",
+            "Phase 3",
+            "Phase 4",
+            "Phase 5",
+            "Phase 6",
+            "Phase 7",
+            "Phase 8",
+            "Phase 1",
+            "Phase 9",
             "New Iqbal Park",
             "HBFC Housing Society",
             "Pace Woodlands",
@@ -7498,6 +7125,7 @@
             "Jallah Jeem",
             "Fidda Town",
             "Madina Colony",
+            "Islamabad",
             "Mughal Pura",
             "Muradabad Basti",
             "Qazi Town Garrison",
@@ -8594,15 +8222,15 @@
             "Corporation Colony"
         ],
         "Peshawar - Hayatabad": [
-            "Hayatabad Phase 1",
-            "Hayatabad Phase 4",
+            "Phase 1",
+            "Phase 4",
             "Hayatabad Industrial Estate",
-            "Hayatabad Phase 2",
-            "Hayatabad Phase 7",
-            "Hayatabad Phase 5",
-            "Hayatabad Phase 3",
+            "Phase 2",
+            "Phase 7",
+            "Phase 5",
+            "Phase 3",
             "Al Haram Model Town",
-            "Hayatabad Phase 6",
+            "Phase 6",
             "Karkhano Market"
         ]
     },
@@ -8746,13 +8374,14 @@
         ]
     },
     "Rawalpindi": {
-        "Rawalpindi - Margalla View Housing Society":[
-            "Margalla View Housing Society",
-            "Margalla Housing Society"
+        "Rawalpindi - Gulberg": [
+            "Gulberg Green",
+            "Gulberg Residencia"
         ],
         "Rawalpindi - Jinnah Garden": [
             "Jinnah Garden",
-            "Naval Anchorage"
+            "Naval Anchorage",
+            "Street 1 to 226"
         ],
         "Rawalpindi - Sadiqabad": [
             "Afandi Colony",
@@ -8827,6 +8456,15 @@
             "Satellite Town Block D"
         ],
         "Rawalpindi - Soan Garden": [
+            "Block A",
+            "Block B",
+            "Block C",
+            "Block D",
+            "Block E",
+            "Block F",
+            "Block G",
+            "Block H",
+            "Phase 2",
             "Soan Garden",
             "River Garden"
         ],
@@ -8841,7 +8479,6 @@
             "Rawat Union"
         ],
         "Rawalpindi - Chaklala": [
-            "Askari",
             "Topi Rakh Auditorium",
             "Askari 6",
             "Ayub Colony",
@@ -8930,7 +8567,6 @@
             "Aziz Bhatti Road",
             "Riaz Qureshi Road",
             "R. A. Bazar",
-            "RA Bazar",
             "Indus Road",
             "Khadim Hussain Road",
             "Alamgir Road",
@@ -8940,40 +8576,18 @@
             "Harley Street",
             "Tufail Road"
         ],
-        "Rawalpindi - CBR Town Phase 1": [
-            "CBR Town Phase 1",
-            "CBR Town 1",
-            "CBR Town Phase # 1",
-            "CBR Town # 1",
-            "CBR Town One",
-            "CBR Town Phase One",
-            "CBR Town Phase One"
-        ],
-        "Rawalpindi - CBR Town Phase 2": [
-            "CBR Town Phase 2",
-            "CBR Town 2",
-            "CBR Town Phase # 2",
-            "CBR Town # 2",
-            "CBR Town Two",
-            "CBR Town Phase Two",
-            "CBR Town Phase Two"
+        "Rawalpindi - CBR Town": [
+            "CBR Town Block B To D"
         ],
         "Rawalpindi - Gulraiz": [
-            "Gulraiz",
             "Rasool Town",
-            "Gulraiz Commerical",
-            "Gulraiz Phase 6",
-            "Gulraiz Phase 5",
-            "Gulraiz Phase 4",
-            "Gulraiz Phase 3",
-            "Gulraiz Phase 2",
-            "Gulraiz Phase 1",
-            "Gulraiz 6",
-            "Gulraiz 5",
-            "Gulraiz 4",
-            "Gulraiz 3",
-            "Gulraiz 2",
-            "Gulraiz 1"
+            "Phase 5",
+            "Commerical",
+            "Phase 6",
+            "Phase 3",
+            "Phase 4",
+            "Phase 1",
+            "Phase 2"
         ],
         "Rawalpindi - Saddar": [
             "Sir Syed Road",
@@ -9027,12 +8641,10 @@
             "Charing Cross",
             "Ashayana Chowk",
             "Race Course Road",
-            "Peshawar Road",
             "Peshawar Road Lane 5",
             "Peshawar Road Lane 2",
             "Nagi Road",
             "Gulshan E Khudadad 1 To 5",
-            "Gulshan E Khudadad",
             "Bhata Chowk",
             "Gulshan E Nayab",
             "Faisal Colony",
@@ -9062,10 +8674,8 @@
             "Qasai Chowk",
             "KRL Flats",
             "Blue Land Officer Coloney",
-            "Blue Land Officer Cloney",
             "Jhangi Syedian",
             "Green Land Officer Coloney",
-            "Green Land Officer Cloney",
             "Qasim Market",
             "PIA Colony",
             "Chour Chowk",
@@ -9086,8 +8696,6 @@
             "Allahabad",
             "Mohalla Qureshian",
             "26 # Chungi",
-            "26 Chungi",
-            "26 No Chungi",
             "Shimla Valley",
             "CMT Golra"
         ],
@@ -9180,8 +8788,6 @@
             "Murshad Town",
             "Rawalpindi Medical University",
             "Rawalpindi Institute Of Cardiology - RIC",
-            "Rawalpindi Institute Of Cardiology",
-            "RIC",
             "Sultan Ka Khuh",
             "Chandni Chowk",
             "Glass Factory",
@@ -9223,7 +8829,6 @@
             "Gulshan Shumal",
             "Banker's Colony",
             "Khalid Colony Phase 2",
-            "Khalid Colony",
             "Zulfikar Colony",
             "Al-Haram City",
             "Khyaban E Suleman",
@@ -9321,7 +8926,6 @@
             "Muslim Park",
             "Ameen Town",
             "Khyaban Sector 4B",
-            "Khyaban",
             "Khyaban Sector 4A",
             "New Katarian",
             "Mohalla Gulshan Abad",
@@ -9334,7 +8938,7 @@
             "Alim Abad",
             "Kashmir Colony",
             "Bangash Colony",
-            "Khyaban"
+            "Khyaban Sector 1 To 3"
         ],
         "Rawalpindi - Muslim Town": [
             "Muhammadi Colony",
@@ -9354,8 +8958,7 @@
             "Karimabad",
             "Jahandad Town",
             "Sarfraz Market",
-            "Al-Noor Colony",
-            "AlNoor Colony"
+            "Al-Noor Colony"
         ],
         "Rawalpindi - Bahria Town": [
             "Garden City",
@@ -9364,50 +8967,60 @@
             "Usman Block",
             "Awais Block",
             "Sos Village",
-            "Awami Villa",
+            "Awami Villa 1 To 3",
             "Safari Extensions",
             "Ali Block",
             "Bahria Heights 2",
-            "Bahria Heights",
-            "Bahria Town Gate ",
+            "Bahria Town Gate - GT Road",
             "Wallayat Complex",
             "Awais Qarni Road",
             "Bahria Heights B7",
             "Abuzar Ghaffari Road",
             "Qj Heights",
+            "Phase 8",
+            "Phase 7",
+            "Phase 1",
+            "Phase 4",
             "Umer Block",
+            "Phase 5",
+            "Phase 6",
             "Asian Business Center",
             "Lake View Block Sector A1",
             "Usman D Villas",
             "Bahria Heights 1",
+            "Phase 2",
+            "Phase 3",
             "Serene City",
             "Khalid Block",
             "Global Streets",
-            "Lake View Block",
+            "Lake View Block Sector F8",
             "Golden Jublee Housing Society",
             "Midway Commercial",
             "Overseas Enclave",
-            "Safari Villa",
+            "Safari Villa 1 - 3",
             "Club City",
             "Square Commercial",
             "Hamlet",
-            "Lake View Block",
+            "Lake View Block Sector A To I",
             "College Road",
             "Safari Homes",
-            "Parkway Road"
+            "Parkway Road",
+            "Block L"
         ],
         "Rawalpindi - DHA": [
+            "Phase 5",
             "Babu Market",
             "Fauji Foundation Hospital",
             "Emaar M-1 to M 7",
             "DHA Valley",
             "Giga Mall",
+            "Phase 1",
+            "Phase 2",
             "Mora Nagyal",
             "Zaraj Housing Society",
             "Al-Shifa Housing Society",
             "DHA Gate - GT Road",
             "Askari Tower 1 - 2",
-            "Askari Tower",
             "Orchard C",
             "DHA Phase 3",
             "Orchard B"
@@ -9420,9 +9033,13 @@
             "Airport Society"
         ],
         "Rawalpindi - National Police Foundation": [
+            "Block A",
+            "Block E",
+            "Block C",
+            "Block B",
             "National Police Foundation Block A To F",
-            "National Police Foundation",
-            "NPF"
+            "Block D",
+            "Block F"
         ],
         "Rawalpindi - Dhamyal": [
             "Green Valley",
@@ -9474,9 +9091,7 @@
             "Rashid Minhas Camp"
         ],
         "Rawalpindi - Naval Anchorage": [
-            "Naval Anchorage Sector",
-            "Neval Anchorage",
-            "Naval Anchorage"
+            "Naval Anchorage Sector A To I"
         ],
         "Rawalpindi - Fizaiya Colony": [
             "Fazaia Colony",
@@ -9485,43 +9100,34 @@
             "Mangral Town",
             "Springs Apartments"
         ],
-        "Pakistan Town Phase 1": [
-            "Pakistan Town Phase 1",
-            "Pakistan Town 1",
-            "PK Town Phase 1",
-            "PK Town 1"
-        ],
-        "Pakistan Town Phase 2": [
-            "Pakistan Town Phase 2",
-            "Pakistan Town 2",
-            "PK Town Phase 2",
-            "PK Town 2"
+        "Rawalpindi - Pakistan Town": [
+            "Phase 2",
+            "Phase 1",
+            "Korang Town"
         ],
         "Rawalpindi - Media Town": [
             "Federation Housing Society",
-            "Media Town"
+            "Media Town Block A To D"
         ],
         "Rawalpindi - Humak": [
             "Model Town Humak",
             "Industrial Triangle Kahuta"
         ],
         "Rawalpindi - Model Town": [
-            "Model Town",
+            "Model Town Sector A To C",
             "Model Town Zameeni",
             "Gharbi",
             "Sharqi"
         ],
-        "Gulberg Green": [
-            "Gulberg Green",
-            "Gulberg Greens",
-            "Gulberg Gren",
-            "Gulburg Green",
-            "Gulberg Residencia",
-            "Gulberg"
+        "Rawalpindi - Gulberg Green": [
+            "Gulberg Green Sector A To C"
         ],
         "Rawalpindi - PWD": [
-            "PWD",
+            "Block A to D",
             "Doctor's Town"
+        ],
+        "Rawalpindi - Gulberg Residencia": [
+            "Gulberg Sector A To J"
         ]
     },
     "Rolia": {
@@ -11398,7 +11004,40 @@
             "Waggan"
         ]
     },
-
+    "Wah": {
+        "Wah": [
+            "25 Area",
+            "Asif Abad",
+            "Benazir Colony",
+            "Bhabra",
+            "Cashmer Town",
+            "Dhoke Barda",
+            "Ghazi Pur Colony",
+            "Ghouri Town",
+            "Gulshan-e-Anwar",
+            "Iqbal Town",
+            "J - Lane",
+            "K - Lane",
+            "Malikabad",
+            "Mohabatabad",
+            "Nawababad",
+            "New City Phase 2",
+            "Phase 4",
+            "Sadat Colony",
+            "Sector 20",
+            "Sector 21 - E",
+            "Sector 21 - F",
+            "Sector 22 - F",
+            "Sector 22 - G",
+            "Sector 23 - G",
+            "Shah Wali Colony",
+            "Tameer-e-Hayat Colony",
+            "Wah Model Town",
+            "Phase 3",
+            "Dhok Kokara",
+            "Gattia Road"
+        ]
+    },
     "Wazirabad": {
         "Wazirabad": [
             "Bhattike",
@@ -13546,6 +13185,7 @@
             "Mirpur",
             "Mandian",
             "Habibullah Colony",
+            "Banni",
             "Comsats",
             "Lower Malikpura",
             "Kunj",
@@ -14304,7 +13944,7 @@
             "Sector 1",
             "Sector 3",
             "Sector 2",
-            "Sector 4"  
+            "Sector 4"
         ],
         "Gujranwala - Peoples Colony": [
             "Block Y",
@@ -14426,18 +14066,12 @@
             "Block A"
         ],
         "Gujranwala - Green Valley": [
-            "Green Valley Phase 1",
-            "Green Valley Phase 2",
-            "Green Valley Phase 4",
-            "Green Valley Phase 5",
-            "Green Valley Phase 3",
-            "Green Valley Phase 6",
-            "Green Valley 1",
-            "Green Valley 2",
-            "Green Valley 4",
-            "Green Valley 5",
-            "Green Valley 3",
-            "Green Valley 6"
+            "Phase 1",
+            "Phase 2",
+            "Phase 4",
+            "Phase 5",
+            "Phase 3",
+            "Phase 6"
         ]
     },
     "Jampur": {

@@ -8,7 +8,7 @@ from pathlib import Path
 class APIGeocodingPipeline:
     def __init__(self):
         self.API_KEY = os.environ.get("GOOGLE_MAPS_API_KEY")
-        self.gmaps = googlemaps.Client(key=self.API_KEY)
+        self.gmaps = googlemaps.Client(key="AIzaSyBSVFoiiMzR0jXbBWN7xDLYU_De1YYYmX0")
         self.input_file = Path("artifacts/regex_processing/processed_data_details.csv")
         self.output_file = Path("artifacts/api_processing/api_data_details.csv")
         self.output_file.parent.mkdir(parents=True, exist_ok=True)
