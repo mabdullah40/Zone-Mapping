@@ -2596,7 +2596,7 @@
             "Dhok Kokara",
             "Gattia Road"
         ],        
-        "B-17": [
+        "Multi Gardens B-17": [
             "\\b[bB][ -]?17\\b",
             "\\b[bB][ -]?17/\\d+\\b",
             "\\b\\[b\\][ -]?17/\\d+\\b",
@@ -2681,7 +2681,7 @@
             "Gattia Road"
         ],        
 
-        "Islamabad - Airport New Societies":[
+        "Airport New Societies":[
             "Airport Enclave",
             "Dhok Dhumman",
             "Eighteen Housing Society",
@@ -2695,7 +2695,7 @@
             "Thalian",
             "Top City"
         ],
-        "Islamabad - Sihala": [
+        "Sihala": [
         "Aari Syedan",
         "Chak Kamidar",
         "CUST University",
@@ -2708,7 +2708,7 @@
         "Police Training College",
         "Sihala"
     ],
-        "Islamabad - Chatta Bakhtawar":[
+        "Chatta Bakhtawar":[
             "Green Avenue - Phase 1",
             "Green Avenue",
             "Park View",
@@ -2747,7 +2747,7 @@
             "PWD Villas",
             "Media Town"
         ],
-        "B-17": [
+        "Multi Gardens B-17": [
             "\\b[bB][ -]?17\\b",
             "\\b[bB][ -]?17/\\d+\\b",
             "\\b\\[b\\][ -]?17/\\d+\\b",
@@ -3305,22 +3305,22 @@
             "PK Town Phase 2",
             "PK Town 2"
         ],
-        "Islamabad - Bahria Enclave Phase 1": [
+        "Bahria Enclave Phase 1": [
             "Bahria Enclave Phase 1",
             "Bahria Phase 1",
             "Bahria 1"
         ],
-        "Islamabad - Bahria Enclave Phase 2": [
+        "Bahria Enclave Phase 2": [
             "Bahria Enclave Phase 2",
             "Bahria Phase 2",
             "Bahria 2"
         ],
-        "Islamabad - Bahria Town Phase 1": [
+        "Bahria Town Phase 1": [
             "Bahria Town Phase 1",
             "Bahria Phase 1",
             "Bahria 1"
         ],
-        "Islamabad - Bahria Town Phase 2": [
+        "Bahria Town Phase 2": [
             "Bahria Town Phase 2",
             "Bahria Phase 2",
             "Bahria 2",
@@ -3328,33 +3328,33 @@
             "Safari banquets",
             "Safari banquet"
         ],
-        "Islamabad - Bahria Town Phase 3": [
+        "Bahria Town Phase 3": [
             "Bahria Town Phase 3",
             "Bahria Phase 3",
             "Bahria 3"
         ],
-        "Islamabad - Bahria Town Phase 4": [
+        "Bahria Town Phase 4": [
             "Bahria Town Phase 4",
             "Bahria Phase 4",
             "Bahria 4"
         ],
-        "Islamabad - Bahria Town Phase 5": [
+        "Bahria Town Phase 5": [
             "Bahria Town Phase 5",
             "Bahria Phase 5",
             "Bahria 5"
         ],
-        "Islamabad - Bahria Town Phase 6": [
+        "Bahria Town Phase 6": [
             "Bahria Town Phase 6",
             "Bahria Phase 6",
             "Bahria 6"
         ],
-        "Islamabad - Bahria Town Phase 7": [
+        "Bahria Town Phase 7": [
             "Bahria Town Phase 7",
             "Bahria Phase 7",
             "Bahria 7"
         ],
 
-        "Islamabad - DHA Phase 1":[
+        "DHA Phase 1":[
             "DHA Phase 1",
             "Defence Housing Society 1",
             "Defence Housing Authority 1",
@@ -3363,8 +3363,8 @@
             "DHA Phase 1 Extension",
             "DHA 1"
         ],
-        "Islamabad - DHA Phase 2":[
-
+        "DHA Phase II":[
+            "DHA Phase II",
             "DHA Phase 2",
             "Defence Housing Society 2",
             "Defence Housing Authority 2",
@@ -3373,7 +3373,7 @@
             "DHA Phase 2 Extension",
             "DHA 2"
         ],
-        "Islamabad - DHA Phase 3":[
+        "DHA Phase 3":[
             "DHA Phase 3",
             "Defence Housing Society 3",
             "Defence Housing Authority 3",
@@ -3383,7 +3383,7 @@
             "DHA 3"
         ],
 
-        "Islamabad - DHA Phase 4":[
+        "DHA Phase 4":[
             "DHA Phase 4",
             "Defence Housing Society 4",
             "Defence Housing Authority 4",
@@ -3392,7 +3392,7 @@
             "DHA Phase 4 Extension",
             "DHA 4"
         ],
-        "Islamabad - DHA Phase 5":[
+        "DHA Phase 5":[
             "DHA Phase 5",
             "Defence Housing Society 5",
             "Defence Housing Authority 5",
@@ -3401,7 +3401,7 @@
             "DHA Phase 5 Extension",
             "DHA 5"
         ],
-        "Islamabad - DHA Phase 6":[
+        "DHA Phase 6":[
             "DHA Phase 6",
             "Defence Housing Society 6",
             "Defence Housing Authority 6",
@@ -3410,13 +3410,13 @@
             "DHA Phase 6 Extension",
             "DHA 6"
         ],
-        "Islamabad - Jhangi Syedian": [
+        "Jhangi Syedian": [
             "Chongi 26",
             "Islamabad International Airport",
             "Jhangi Syedian",
             "Muhammadi Town"
         ],
-        "Islamabad - Ali Pur": [
+        "Ali Pur": [
             "Kirpa Road",
             "Nilor",
             "Panjgran",
@@ -3436,7 +3436,7 @@
             "Balti Colony",
             "Hamdani Town"
         ],
-        "Islamabad - Bhara Kahu": [
+        "BaraKahu": [
             "bharakahu",
             "bharakhu",
             "barakahu",
@@ -3468,13 +3468,13 @@
             "Shahpur",
             "Azmat Town"
         ],
-        "Islamabad - Rawal Town": [
+        "Rawal Town": [
             "NARC Colony",
             "Orchard Scheme",
             "Margalla Town",
             "Margall Town"
         ],
-        "Islamabad - Banni Gaala": [
+        "Bani Gala": [
             "Hill View Road",
             "Imran Khan Road",
             "Pakistan Colony",
@@ -3498,7 +3498,7 @@
             "Lakhwal",
             "Khyber City Town"
         ],
-        "Islamabad - Sohan": [
+        "Sohan": [
             "Awaan Town",
             "Razaq Valley Road",
             "Nawab Town",
@@ -3513,7 +3513,7 @@
             "Madni Town",
             "Burma"
         ],
-        "Islamabad - Tarlai Kalan": [
+        "Tarlai Kalan": [
             "Sarfraz Town",
             "Gulshan-E-Tarlai",
             "Gulberg Town",
@@ -3532,7 +3532,7 @@
             "Gulberg Gren",
             "Gulburg Green"
         ],
-        "Islamabad - Ghauri Town": [
+        "Ghauri Town": [
             "Ghauri Town",
             "Ghauri Town - Phase 4",
             "Ghauri Town - Phase 3",
@@ -3560,7 +3560,7 @@
             "Ghauri Town - Phase 7",
             "Ghauri Town - Phase 5"
         ],
-        "Islamabad - Chak Shahzad": [
+        "Chak Shahzad": [
             "Chak Shehzad Farms",
             "Gulshan - E - Alhuda",
             "Gulshan E Alhuda",
@@ -9161,7 +9161,7 @@
             "Dhok Kashmirian",
             "Hussainabad"
         ],
-        "Rawalpindi - Muree Road": [
+        "Rawalpindi - Murree Road": [
             "Iqbal Camp",
             "Rawal Park",
             "Thana Waris Khan",
@@ -9357,7 +9357,10 @@
             "Al-Noor Colony",
             "AlNoor Colony"
         ],
-        "Rawalpindi - Bahria Town": [
+        "Bahria Enclave Phase 1": [
+            "Bahria Enclave Phase 1",
+            "Bahria Phase 1",
+            "Bahria 1",
             "Garden City",
             "Civic Center",
             "Abu Bakr Block",
@@ -9396,10 +9399,62 @@
             "Safari Homes",
             "Parkway Road"
         ],
-        "Rawalpindi - DHA": [
+        "Bahria Enclave Phase 2": [
+            "Bahria Enclave Phase 2",
+            "Bahria Phase 2",
+            "Bahria 2"
+        ],
+        "Bahria Town Phase 1": [
+            "Bahria Town Phase 1",
+            "Bahria Phase 1",
+            "Bahria 1"
+        ],
+        "Bahria Town Phase 2": [
+            "Bahria Town Phase 2",
+            "Bahria Phase 2",
+            "Bahria 2",
+            "Bahria Town Safari banquets",
+            "Safari banquets",
+            "Safari banquet"
+        ],
+        "Bahria Town Phase 3": [
+            "Bahria Town Phase 3",
+            "Bahria Phase 3",
+            "Bahria 3"
+        ],
+        "Bahria Town Phase 4": [
+            "Bahria Town Phase 4",
+            "Bahria Phase 4",
+            "Bahria 4"
+        ],
+        "Bahria Town Phase 5": [
+            "Bahria Town Phase 5",
+            "Bahria Phase 5",
+            "Bahria 5"
+        ],
+        "Bahria Town Phase 6": [
+            "Bahria Town Phase 6",
+            "Bahria Phase 6",
+            "Bahria 6"
+        ],
+        "Bahria Town Phase 7": [
+            "Bahria Town Phase 7",
+            "Bahria Phase 7",
+            "Bahria 7"
+        ],
+
+        "DHA Phase 1":[
+            "DHA Phase 1",
+            "Defence Housing Society 1",
+            "Defence Housing Authority 1",
+            "Defence Housing Society Phase 1",
+            "Defence Housing Authority Phase 1",
+            "DHA Phase 1 Extension",
+            "DHA 1",
             "Babu Market",
             "Fauji Foundation Hospital",
             "Emaar M-1 to M 7",
+            "Emaar",
             "DHA Valley",
             "Giga Mall",
             "Mora Nagyal",
@@ -9407,11 +9462,56 @@
             "Al-Shifa Housing Society",
             "DHA Gate - GT Road",
             "Askari Tower 1 - 2",
-            "Askari Tower",
-            "Orchard C",
-            "DHA Phase 3",
-            "Orchard B"
+            "Askari Tower"
         ],
+        "DHA Phase II":[
+            "DHA Phase II",
+            "DHA Phase 2",
+            "Defence Housing Society 2",
+            "Defence Housing Authority 2",
+            "Defence Housing Society Phase 2",
+            "Defence Housing Authority Phase 2",
+            "DHA Phase 2 Extension",
+            "DHA 2"
+        ],
+        "DHA Phase 3":[
+            "DHA Phase 3",
+            "Defence Housing Society 3",
+            "Defence Housing Authority 3",
+            "Defence Housing Society Phase 3",
+            "Defence Housing Authority Phase 3",
+            "DHA Phase 3 Extension",
+            "DHA 3"
+        ],
+
+        "DHA Phase 4":[
+            "DHA Phase 4",
+            "Defence Housing Society 4",
+            "Defence Housing Authority 4",
+            "Defence Housing Society Phase 4",
+            "Defence Housing Authority Phase 4",
+            "DHA Phase 4 Extension",
+            "DHA 4"
+        ],
+        "DHA Phase 5":[
+            "DHA Phase 5",
+            "Defence Housing Society 5",
+            "Defence Housing Authority 5",
+            "Defence Housing Society Phase 5",
+            "Defence Housing Authority Phase 5",
+            "DHA Phase 5 Extension",
+            "DHA 5"
+        ],
+        "DHA Phase 6":[
+            "DHA Phase 6",
+            "Defence Housing Society 6",
+            "Defence Housing Authority 6",
+            "Defence Housing Society Phase 6",
+            "Defence Housing Authority Phase 6",
+            "DHA Phase 6 Extension",
+            "DHA 6"
+        ],
+
         "Rawalpindi - Airport Society": [
             "Civic Center",
             "Obaid Road",

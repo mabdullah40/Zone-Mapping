@@ -47,7 +47,7 @@ class WarehouseMappingPipeline:
             "Quetta",
             "Rahim Yar Khan",
             "Raj Kot",
-            "Rawalpindi",
+            # "Rawalpindi",
             "Rohri",
             "Sadiqabad",
             "Sahiwal",
