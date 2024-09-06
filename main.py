@@ -32,9 +32,9 @@ def run_pipeline():
     # If data has changed, continue with the rest of the pipeline
     stages = [
         ("REGEX PROCESSING", RegexProcessingPipeline),
-        # ("API PROCESSING", APIGeocodingPipeline),
-        # ("WAREHOUSE MAPPING", WarehouseMappingPipeline),
-        # ("DATA WRITING", DataWritingPipeline),
+        ("API PROCESSING", APIGeocodingPipeline),
+        ("WAREHOUSE MAPPING", WarehouseMappingPipeline),
+        ("DATA WRITING", DataWritingPipeline),
     ]
 
     for stage_name, pipeline_class in stages:
