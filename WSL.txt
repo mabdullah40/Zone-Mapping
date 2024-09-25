@@ -1,0 +1,33 @@
+Muid Bin Aslam
+5:26 PM
+cd Zone-Mapping
+python3 -m venv venv
+source venv\bin\activate
+Muid Bin Aslam
+5:28 PM
+source venv/bin/activate
+pip install -r requirements.txt
+Muid Bin Aslam
+5:30 PM
+nano requirements.txt
+Muid Bin Aslam
+5:48 PM
+./run.sh
+chmod +x run_continuously.sh
+Muid Bin Aslam
+5:50 PM
+chmod +x run.sh
+./run.sh
+
+
+
+
+curl ifconfig.me
+#!/bin/bash
+
+while true
+do
+   
+    python3 main.py
+    
+done

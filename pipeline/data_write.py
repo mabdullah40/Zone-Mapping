@@ -54,7 +54,8 @@ class DataWritingPipeline:
             sort_addr_title = %s,
             warehouse_id = %s,
             warehouse_title = %s,
-            sorted_flag = 1
+            sorted_flag = 1,
+            partial_match = %s
         WHERE id = %s
         """
 
@@ -73,6 +74,7 @@ class DataWritingPipeline:
                 if pd.notna(row["Mapped_Warehouse_Title"])
                 else None
             ),
+            row["partial_match"] if pd.notna(row["partial_match"]) else 0,
             row["id"],
         )
 

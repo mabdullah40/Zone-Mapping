@@ -1,0 +1,4 @@
+ssh -i "pdf-service.pem" ec2-user@ec2-54-89-188-182.compute-1.amazonaws.com
+cd Zone-Mapping
+source venv\bin\activate
+./run.sh

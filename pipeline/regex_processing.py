@@ -9,7 +9,7 @@ from functools import lru_cache
 class RegexProcessingPipeline:
     def __init__(self):
         self.zones_file = Path("components/city_hierarchy.json")
-        self.input_file = Path("artifacts/data_ingestion/order_details.csv")
+        self.input_file = Path("artifacts/data_ingestion/order_detailsss.csv")
         self.output_file = Path("artifacts/regex_processing/processed_data_details.csv")
 
         logging.basicConfig(
@@ -137,14 +137,23 @@ class RegexProcessingPipeline:
         if not result:
             print("  No matches found")
 
+    # def process_data(self):
+    #     try:
+    #         df = pd.read_csv(self.input_file)
+    #         processed_df = self.process_chunk(df)
+    #         return processed_df
+    #     except Exception as e:
+    #         self.logger.error(f"Failed to process data: {e}")
+    #         raise
     def process_data(self):
         try:
-            df = pd.read_csv(self.input_file)
+            df = pd.read_csv(self.input_file, encoding="ISO-8859-1")
             processed_df = self.process_chunk(df)
             return processed_df
         except Exception as e:
             self.logger.error(f"Failed to process data: {e}")
             raise
+
 
     def print_patterns(self):
         for area, pattern in self.patterns.items():
